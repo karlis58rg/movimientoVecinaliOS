@@ -1,5 +1,5 @@
 PODS:
-  - Alamofire (5.4.1)
+  - Alamofire (4.9.1)
   - Firebase/Analytics (7.6.0):
     - Firebase/Core
   - Firebase/Core (7.6.0):
@@ -82,11 +82,11 @@ PODS:
   - SwiftyJSON (5.0.0)
 
 DEPENDENCIES:
-  - Alamofire
+  - Alamofire (= 4.9.1)
   - Firebase/Analytics
   - Firebase/Messaging
   - GIFImageView
-  - SwiftyJSON
+  - SwiftyJSON (= 5.0.0)
 
 SPEC REPOS:
   trunk:
@@ -107,7 +107,7 @@ SPEC REPOS:
     - SwiftyJSON
 
 SPEC CHECKSUMS:
-  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
   Firebase: e1e089d9aac215a52442583f818ab61de3c4581b
   FirebaseAnalytics: 9f8f4feab1f3fddf4e4515f8f022fe6aa9e51043
   FirebaseCore: 0a43b7f1c5b36f3358cd703011ca4c7e0df55870
@@ -123,6 +123,6 @@ SPEC CHECKSUMS:
   PromisesObjC: 3113f7f76903778cf4a0586bd1ab89329a0b7b97
   SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
 
-PODFILE CHECKSUM: 1475d158d6bd20c6336fb4d887e0292e4986a509
+PODFILE CHECKSUM: e6fed0a108885afe19ef3848431ce01a803a23ca
 
 COCOAPODS: 1.10.1

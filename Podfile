@@ -9,8 +9,8 @@ target 'movimientovecinal' do
 
 	pod 'Firebase/Analytics'
 	pod 'Firebase/Messaging'
-	pod 'Alamofire'
-	pod 'SwiftyJSON'
+	pod 'Alamofire', '4.9.1'
+	pod 'SwiftyJSON', '5.0.0'
 	pod 'GIFImageView'
 
 end
